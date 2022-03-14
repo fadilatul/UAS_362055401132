@@ -1,7 +1,5 @@
 # covidapi
 
-![tampilan1](https://user-images.githubusercontent.com/100394777/158186312-5c43c19d-0732-4091-8ec1-6024a0c0c271.jpeg)
-![tampilan2](https://user-images.githubusercontent.com/100394777/158186353-2def630e-f912-4432-9170-c76402a6b248.jpeg)
 
 
 NAMA KELOMPOK :
