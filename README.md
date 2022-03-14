@@ -2,12 +2,12 @@
 
 ![tampilan1](https://user-images.githubusercontent.com/100394777/158186312-5c43c19d-0732-4091-8ec1-6024a0c0c271.jpeg)
 ![tampilan2](https://user-images.githubusercontent.com/100394777/158186353-2def630e-f912-4432-9170-c76402a6b248.jpeg)
-![tampilan3](https://user-images.githubusercontent.com/100394777/158186393-3328091b-145c-4a7c-ad60-fbb335c26563.jpeg)
+
 
 NAMA KELOMPOK :
 1. Fadilatul Rohmania 362055401132
 2. Alisa Nuril Jazilah 362055401138
-A new Flutter project.
+
 
 ## Getting Started
 
