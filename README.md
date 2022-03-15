@@ -9,6 +9,8 @@
 NAMA KELOMPOK :
 1. Fadilatul Rohmania 362055401132
 2. Alisa Nuril Jazilah 362055401138
+3. Avina Dwi Ratnasari 362055401136
+4. Dini Adistia Budi 362055401150
 
 
 ## Getting Started
